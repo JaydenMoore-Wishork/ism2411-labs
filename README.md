@@ -1,1 +1,3 @@
-# ism2411-labs
+# ISM2411 Lab 12 — Read a Sales CSV, Write a Cleaned Report
+   Jayden Moore-Wishork
+   Run: python3 csv_practice.py
